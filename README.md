@@ -22,5 +22,5 @@ networks:
 
 * crete folder name `` locust ``
 * add configure file name ``` locustfile.py ```
-* up docker compose using ``` docker compose up -d ``
+* up docker compose using ``` docker compose up -d ```
   
